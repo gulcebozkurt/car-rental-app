@@ -6,7 +6,7 @@ Araba Kiralama Uygulaması, kullanıcıların aradıkları arabayı kolayca bula
 
 - Araçların üretim yılına göre filtreleme yapabilirsiniz. Bu, yeni model araçları veya belirli bir yıl aralığındaki araçları bulmanıza yardımcı olur.
 
-Benzin, dizel veya elektrikli araçlar arasında seçim yapabilirsiniz. Bu, yakıt tercihlerinize uygun araçları bulmanıza yardımcı olur.
+- Benzin, dizel veya elektrikli araçlar arasında seçim yapabilirsiniz. Bu, yakıt tercihlerinize uygun araçları bulmanıza yardımcı olur.
 
 ## Gif 
 
